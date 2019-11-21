@@ -9,7 +9,8 @@ spotify-this-song
 movie-this
 do-what-it-says
 
-Format: ![alt text](C:\Users\guayo\Documents\images\lirib.png "image of my app working");
+(/LIRI-BOT/liri.png)
+Format: ![Image of working app]
 
 Technologies Used
 Node.js
