@@ -9,8 +9,7 @@ spotify-this-song
 movie-this
 do-what-it-says
 
-(/LIRI-BOT/liri.png)
-Format: ![Image of working app]
+text: ![alt test](screenshots/liri.png)
 
 Technologies Used
 Node.js
